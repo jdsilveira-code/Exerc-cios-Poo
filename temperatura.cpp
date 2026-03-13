@@ -6,3 +6,5 @@ int main() {
     cout << "Sensor ativo: " << temperatura << " C" << endl;
     return 0;
 }
+
+
